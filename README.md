@@ -22,14 +22,11 @@ Hi, I'm Matías!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+💻 I am currently pursuing my studies at the University of Buenos Aires and have cultivated a strong passion for programming. My technical expertise includes C# and Dart, with a particular focus on Flutter for cross-platform development. Through both academic and personal projects, I have gained experience in creating robust applications with user-friendly interfaces, emphasizing responsive design and efficient backend logic.
+
+Beyond programming, I am skilled in essential tools like Microsoft Word and Excel, and I have a solid command of LaTeX, which I frequently use for academic and professional documentation. I am also a dedicated Ubuntu user, integrating it seamlessly into my daily workflow and development environment.
+
+I am committed to continuous learning and leveraging my skills to contribute meaningfully to innovative projects. Feel free to connect with me on LinkedIn to explore potential collaborations or discuss exciting opportunities in tech.
 </pre>
 <hr>
 
