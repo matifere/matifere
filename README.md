@@ -16,8 +16,8 @@
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
+	<a href="https://github.com/matifere">
+		<img src="https://activity-graph.herokuapp.com/graph?username=matifere&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="matifere">
 	</a>
 </p>
 <br/>
